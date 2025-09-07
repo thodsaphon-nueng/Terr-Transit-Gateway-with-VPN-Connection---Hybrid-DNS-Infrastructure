@@ -1,0 +1,5 @@
+aws_access_key = ""
+aws_secret_key = ""
+region     = "ap-southeast-1"
+az1 = "ap-southeast-1a"
+az2 =  "ap-southeast-1b"
